@@ -1,0 +1,157 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "sec_ones_segs[0]",
+					"strict" : false
+				},
+				{
+					"name" : "sec_ones_segs[1]",
+					"strict" : false
+				},
+				{
+					"name" : "sec_ones_segs[2]",
+					"strict" : false
+				},
+				{
+					"name" : "sec_ones_segs[3]",
+					"strict" : false
+				},
+				{
+					"name" : "sec_ones_segs[4]",
+					"strict" : false
+				},
+				{
+					"name" : "sec_ones_segs[5]",
+					"strict" : false
+				},
+				{
+					"name" : "sec_ones_segs[6]",
+					"strict" : false
+				},
+				{
+					"name" : "sec_tens_segs[0]",
+					"strict" : false
+				},
+				{
+					"name" : "sec_tens_segs[1]",
+					"strict" : false
+				},
+				{
+					"name" : "sec_tens_segs[2]",
+					"strict" : false
+				},
+				{
+					"name" : "sec_tens_segs[3]",
+					"strict" : false
+				},
+				{
+					"name" : "sec_tens_segs[4]",
+					"strict" : false
+				},
+				{
+					"name" : "sec_tens_segs[5]",
+					"strict" : false
+				},
+				{
+					"name" : "sec_tens_segs[6]",
+					"strict" : false
+				},
+				{
+					"name" : "min_segs[0]",
+					"strict" : false
+				},
+				{
+					"name" : "min_segs[1]",
+					"strict" : false
+				},
+				{
+					"name" : "min_segs[2]",
+					"strict" : false
+				},
+				{
+					"name" : "min_segs[3]",
+					"strict" : false
+				},
+				{
+					"name" : "min_segs[4]",
+					"strict" : false
+				},
+				{
+					"name" : "min_segs[5]",
+					"strict" : false
+				},
+				{
+					"name" : "min_segs[6]",
+					"strict" : false
+				},
+				{
+					"name" : "mag_on",
+					"strict" : false
+				},
+				{
+					"name" : "keypad[4]",
+					"strict" : false
+				},
+				{
+					"name" : "keypad[5]",
+					"strict" : false
+				},
+				{
+					"name" : "keypad[6]",
+					"strict" : false
+				},
+				{
+					"name" : "keypad[7]",
+					"strict" : false
+				},
+				{
+					"name" : "keypad[8]",
+					"strict" : false
+				},
+				{
+					"name" : "keypad[9]",
+					"strict" : false
+				},
+				{
+					"name" : "keypad[2]",
+					"strict" : false
+				},
+				{
+					"name" : "keypad[3]",
+					"strict" : false
+				},
+				{
+					"name" : "keypad[0]",
+					"strict" : false
+				},
+				{
+					"name" : "keypad[1]",
+					"strict" : false
+				},
+				{
+					"name" : "clearn",
+					"strict" : false
+				},
+				{
+					"name" : "startn",
+					"strict" : false
+				},
+				{
+					"name" : "stopn",
+					"strict" : false
+				},
+				{
+					"name" : "door_closed",
+					"strict" : false
+				},
+				{
+					"name" : "clock",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
